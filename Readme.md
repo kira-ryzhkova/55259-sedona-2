@@ -2,7 +2,7 @@
 
 * Студент: [Кира Рыжкова](https://up.htmlacademy.ru/htmlcss-individual/2/user/55259).
 * Наставник: [Александр Румянцев](https://htmlacademy.ru/profile/id1521451).
-
+* Сайт: [Мой проект Седона](https://kira-ryzhkova.github.io/55259-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
