@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Кира Рыжкова](https://up.htmlacademy.ru/htmlcss-individual/2/user/55259).
-* Наставник: [Александр Румянцев] (https://htmlacademy.ru/profile/id1521451).
+* Наставник: [Александр Румянцев](https://htmlacademy.ru/profile/id1521451).
 
 ---
 
